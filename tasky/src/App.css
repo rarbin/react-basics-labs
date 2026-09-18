@@ -4,7 +4,7 @@ body {
   font-weight: 400;
   background-color:rgb(234, 231, 197);
   /*NOTE, was able to use relative path background with double quotations, singular only works for exact path*/
-  background-image: url("assets/bg.jpg");
+  /* background-image: url("assets/bg.jpg");*/
   background-repeat: no-repeat;
   background-size:fit;
   background-position:center;
