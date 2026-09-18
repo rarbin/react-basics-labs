@@ -34,6 +34,13 @@ button {
     height: 25px;
 }
 
+.deleteButton {
+  position: center;
+  bottom: 5px;
+  right: 5px;
+  color: red;
+}
+
 .doneButton {
   position: center;
   bottom: 5px;
